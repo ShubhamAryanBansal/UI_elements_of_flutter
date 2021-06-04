@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79119771878",
+    "project_id": "boxigouiapp",
+    "storage_bucket": "boxigouiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79119771878:android:46975b9dc56a4e402ef327",
+        "android_client_info": {
+          "package_name": "com.example.boxigo_ui_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79119771878-200fst42l6g923b73632dgpiq7pfju5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boxigo_ui_app",
+            "certificate_hash": "962573282ffc9fe177c1886b6b270bc90f6775aa"
+          }
+        },
+        {
+          "client_id": "79119771878-46h730drom8ub8vsga6c0qsk8u0rmkaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSSJVmAsLNjt6geDdWw0jGO9e8ZITGaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79119771878-46h730drom8ub8vsga6c0qsk8u0rmkaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
